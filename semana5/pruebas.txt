@@ -1,0 +1,10 @@
+Resultado de las pruebas en el navegador:
+
+1. Al visitar la raíz (http://localhost:3000):
+El navegador muestra el texto "Servidor activo". Esto confirma que el servidor de Express está encendido y respondiendo correctamente.
+
+2. Al visitar el saludo (http://localhost:3000/saludo):
+El navegador muestra el texto "Hola comunidad". Esta ruta estática responde con un mensaje de bienvenida general.
+
+3. Al visitar el mensaje dinámico (http://localhost:3000/mensaje/juan):
+El navegador muestra "Hola juan". El servidor toma la palabra después de '/mensaje/' como un parámetro variable (:nombre) y lo concatena dinámicamente en la respuesta.

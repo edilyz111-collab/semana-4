@@ -1,0 +1,10 @@
+Las Interfaces de Programación de Aplicaciones (APIs) son herramientas tecnológicas
+esenciales para que las comunidades gestionen y compartan información de forma ordenada.
+Al establecer reglas claras (rutas) sobre cómo se solicitan y envían los datos, una API
+permite centralizar reportes, alertas vecinales o inventarios comunitarios sin errores. 
+Esto significa que diferentes aplicaciones, páginas web o bots de mensajería locales
+pueden conectarse a un mismo servidor para consultar o registrar datos simultáneamente.
+Por ejemplo, una alerta de emergencia ingresada por un vecino puede distribuirse de
+manera inmediata a toda la red comunitaria de forma automática y estandarizada. Así, las
+APIs eliminan el caos de la información dispersa y empoderan a los ciudadanos con sistemas
+de comunicación organizados, eficientes, transparentes y totalmente bajo su propio control.
