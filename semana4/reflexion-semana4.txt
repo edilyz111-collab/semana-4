@@ -1,0 +1,10 @@
+La soberanía tecnológica es fundamental para que las comunidades e iniciativas
+ciudadanas resuelvan sus problemas locales de forma autónoma. Al utilizar tecnologías
+abiertas como Node.js y Express, los colectivos no dependen de costosas licencias de
+software privativo ni de las decisiones de grandes corporaciones tecnológicas. Esto
+permite diseñar herramientas personalizadas, como plataformas de monitoreo ambiental
+o redes de ayuda vecinal, que se adaptan exactamente a la realidad del territorio.
+Además, al basarse en código abierto, se fomenta una cultura de colaboración global
+donde el conocimiento se comparte, se audita y se mejora comunitariamente. Así, las
+herramientas técnicas se transforman en vehículos de empoderamiento social, democratizando
+el acceso al desarrollo tecnológico y garantizando la privacidad y el control de los datos.
