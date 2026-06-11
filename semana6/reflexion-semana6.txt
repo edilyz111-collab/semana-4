@@ -1,0 +1,10 @@
+La recepción de información de forma estructurada mediante formatos como JSON es crucial
+para que las plataformas comunitarias gestionen los datos de manera eficiente. Cuando un
+ciudadano envía un reporte desorganizado o en texto libre, procesar esa información a gran
+escala se vuelve una tarea lenta, manual y propensa a errores humanos. Al usar una estructura
+fija con campos claros como "tipo" o "descripcion", las computadoras y servidores pueden
+automatizar el proceso, clasificando las alertas automáticamente por orden de prioridad.
+Esto permite, por ejemplo, dirigir un problema de agua directamente al equipo encargado,
+generar estadísticas visuales sobre las zonas con más problemas y responder más rápido. En
+conclusión, estructurar los datos empodera la organización comunitaria, convirtiendo las
+quejas individuales en información valiosa, ordenada y lista para transformarse en soluciones.

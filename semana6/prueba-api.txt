@@ -1,0 +1,11 @@
+Explicación de la prueba de la API (/registro):
+
+Al enviar una petición de tipo POST a la dirección http://localhost:3000/registro con un formato JSON que contiene un "nombre" y un "mensaje", el servidor procesa correctamente el cuerpo de la solicitud (req.body). 
+
+Como respuesta, el servidor devuelve un objeto JSON que confirma el éxito de la operación mostrando:
+{
+  "estado": "Datos recibidos",
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}
+Esto demuestra que el servidor está escuchando, capturando los parámetros JSON de manera correcta y respondiendo con la estructura de datos adecuada.
